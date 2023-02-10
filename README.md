@@ -69,8 +69,16 @@ Few Predicted Images :
 ### References
 - [ Entity Recognition on images using OCR](https://www.bluetickconsultants.com/enity-recognition-on-images-using-ocr.html)
 
+## Other Projects
+
+To view all other open source projects visit
+  - [ Open Source Projects ](https://www.bluetickconsultants.com/open-source.html) 
+  - [ Open Source Repositories ](https://github.com/orgs/bluetickconsultants/repositories)
+
 ## Author
 
-- [Bluetick Consultants LLP](https://www.bluetickconsultants.com/)
+[Bluetick Consultants LLP](https://www.bluetickconsultants.com/)
+  #### contact us at admin@bluetickconsultants.com
+
 <img src="https://user-images.githubusercontent.com/88481845/215745914-16aa10a5-f24b-4fa9-b1be-432454487788.png" width="50%">
 
